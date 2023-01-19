@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: My Workshop
 ---
 
-# Blog posts
+# Posts
 
 <ul>
   {% for post in site.posts %}
