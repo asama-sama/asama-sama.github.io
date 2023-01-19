@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Don't Move Until You See It"
+description: "Blindfold Chess Trainer"
+date:   2022-01-01 12:00:00 +1100
+categories: projects
+---
+
+[Don't Move Until You See It](https://dontmoveuntilyousee.it/) is a company, run by my good friend Aiden, that teaches you how to improve your chess game through the method of playing chess blindfolded.
+
+I built Aiden a tool that he could embed on his website that let's people play a game of chess against an AI by selecting the piece and the move, and through audio hearing what move the AI played. The game carries on until one of you wins!
+
+This was a really fun project to work on during lockdown and a lot of people are starting to sign up to his lessons and use this tool more and more.
+
+![newgame](/assets/images/dmuysi/newgame.png)
+![newgame](/assets/images/dmuysi/1stpiece.png)
+![newgame](/assets/images/dmuysi/1strank.png)
+![newgame](/assets/images/dmuysi/1stnumber.png)
+
+# Technologies
+
+React/Typescript, pretty much.

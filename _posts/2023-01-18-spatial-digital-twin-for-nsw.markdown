@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Spatial Digital Twin for NSW"
+description: "Combining multiple data sources to get insights"
 date:   2023-01-18 10:17:00 +1100
 categories: projects
 ---
