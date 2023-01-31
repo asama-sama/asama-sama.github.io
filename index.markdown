@@ -3,10 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: My Workshop
+title: Asama
 ---
 
-# Posts
+I am a full stack web developer who loves finding solutions to complex problems. If you need help on a project, reach out to me at asama.qureshi@gmail.com.
+
+# Past Projects
 
 <ul>
   {% for post in site.posts %}
